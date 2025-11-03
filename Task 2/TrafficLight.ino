@@ -217,4 +217,5 @@ void loop() {
   } else {
     pedLight.setRed();   // Car is green/yellow = pedestrians wait
   }
+
 }
