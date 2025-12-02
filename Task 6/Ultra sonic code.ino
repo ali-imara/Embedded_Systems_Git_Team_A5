@@ -1,4 +1,4 @@
-/ Define Pin Connections
+// Define Pin Connections
 const int trigPin = 5;  // Trig sends the sound wave
 const int echoPin = 4;  // Echo receives the sound wave
 const int ledPin = 3;   // LED positive pin
