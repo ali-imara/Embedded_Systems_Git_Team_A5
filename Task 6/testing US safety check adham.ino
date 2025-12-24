@@ -67,4 +67,4 @@ void loop() {
   delay(100); // Small delay for stability
 }
 // red pin should be on a special case if  sensor is positve,u can also directly change it from output
-,its like  layover onditon that overwrites original code this works and makes it much easier
+//,its like  layover onditon that overwrites original code this works and makes it much easier
